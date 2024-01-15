@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **othmane.assari@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/qulkr7w0po)
+- 📄 Know about my experiences https://flowcv.com/resume/qulkr7w0po
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
