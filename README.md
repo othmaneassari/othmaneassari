@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **othmane.assari@gmail.com**
 
+-  👨‍💻 All of my projects are available at [troopl.com/othmaneassari](troopl.com/othmaneassari)
+
 - 📄 Know about my experiences https://flowcv.com/resume/qulkr7w0po
 
 <h3 align="left">Connect with me:</h3>
