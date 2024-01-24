@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **othmane.assari@gmail.com**
 
--  👨‍💻 All of my projects are available at [https://troopl.com/othmaneassari](troopl.com/othmaneassari)
+-  👨‍💻 All of my projects are available at [https://troopl.com/othmaneassari](https://troopl.com/othmaneassari)
 
 - 📄 Know about my experiences https://flowcv.com/resume/qulkr7w0po
 
