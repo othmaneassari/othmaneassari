@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Othmane Assari</h1>
-<h3 align="center">A passionate Junior developper from Canada looking to expand my horizons in the web development sector</h3>
+<h3 align="center">A passionate Junior developer from Canada looking to expand my horizons in the web development sector</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=othmaneassari" alt="othmaneassari" /></a> </p>
 
 - 🔭 I’m currently working on **ZeitGeist, a platform to find exotic cuisine venues around Berlin**
 
-- 🌱 I’m currently learning **Websocket & Action Cable**
+- 🌱 I’m currently enhancing my knowledge in  **React.JS**
 
 - 📫 How to reach me **othmane.assari@gmail.com**
 
