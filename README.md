@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ZeitGeist, a platform to find exotic cuisine venues around Berlin**
 
-- 🌱 I’m currently enhancing my knowledge in  **React.JS**
+- 🌱 I’m currently working on an HR application in  **ASP.Net and React.JS**
 
 - 📫 How to reach me **othmane.assari@gmail.com**
 
