@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=othmaneassari" alt="othmaneassari" /></a> </p>
 
-- 🔭 I’m currently working on **ZeitGeist, a platform to find exotic cuisine venues around Berlin**
+- 🔭 I’m currently learning **Next.Js**
 
 - 🌱 I’m currently working on an HR application in  **ASP.Net and React.JS**
 
